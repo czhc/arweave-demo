@@ -1,4 +1,4 @@
-# Arweave Demo
+# Arweave Study
 
 #### Notes
 
