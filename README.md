@@ -30,3 +30,5 @@
 
 1. https://ardrive.io/what-is-arweave/
 2. https://pencilflip.medium.com/how-to-use-arweave-to-store-and-access-nft-metadata-823552293f62
+3. https://docs.arweave.org/info/wallets/arweave-wallet#new-users-generating-your-wallet
+4. Block explorer: https://viewblock.io/arweave/address/ADDRESS
