@@ -1,0 +1,15 @@
+{
+  "name": "arweave-demo",
+  "version": "1.0.0",
+  "description": "#### Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arweave": "^1.11.8",
+    "dotenv": "^16.0.3"
+  }
+}
